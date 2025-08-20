@@ -1,4 +1,4 @@
-. Acrescente seu nome na posição 3 do vetor e exiba-o em tela
+.Acrescente seu nome na posição 3 do vetor e exiba-o em tela
 
 import java.util.Arrays; 
 
@@ -27,3 +27,4 @@ public class arrayexercicio {
     }
 
 }
+
