@@ -1,3 +1,5 @@
+.Crie um programa que armazene as notas de 10 alunos recebidas pelo usuário. O programa deve retornar a maior nota em tela
+
 import java.util.Scanner;
 
 public class encontrarmaiornota {
@@ -24,4 +26,5 @@ public class encontrarmaiornota {
 
         System.out.println("A maior nota entre os 10 alunos é: " + maiorNota);
     }
+
 }
