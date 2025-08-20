@@ -1,3 +1,5 @@
+. Acrescente seu nome na posição 3 do vetor e exiba-o em tela
+
 import java.util.Arrays; 
 
 public class arrayexercicio {
@@ -23,4 +25,5 @@ public class arrayexercicio {
 
         System.out.println("Array com nome: " + Arrays.toString(novoArray));
     }
+
 }
