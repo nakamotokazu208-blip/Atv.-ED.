@@ -1,3 +1,5 @@
+.Crie um programa com um vetor de 10 elementos inteiros. Exibir em tela os valores pares
+
 import java.util.Random;
 
 public class valorespares {
@@ -19,4 +21,5 @@ public class valorespares {
             }
         }
     }
+
 }
