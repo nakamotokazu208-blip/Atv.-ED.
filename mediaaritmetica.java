@@ -1,3 +1,5 @@
+.Criar um vetor com 4 notas e exibir em tela a média aritmética das nota
+
 public class mediaaritmetica {
 
     public static void main(String[] args) {
@@ -15,4 +17,5 @@ public class mediaaritmetica {
         System.out.println("A média das notas é: " + media);
 
     }
+
 }
